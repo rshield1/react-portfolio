@@ -11,7 +11,7 @@ function HeroSection() {
     
       <Logo/>
       {/* <h1>LEARN-APPLY-TEACH</h1> */}
-      <p>LEARN -- APPLY -- TEACH</p>
+      <p className='text-primary'>LEARN -- APPLY -- TEACH</p>
       <div className='hero-btns'>
         <Button
           className='btns'

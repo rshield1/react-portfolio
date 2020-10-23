@@ -5,7 +5,7 @@ function Logo() {
     const style = {
         width: '1000px',
         height: '550px',
-        opacity: 0.3,
+        opacity: 0.5,
         paddingTop: '10px'
         }
     return <img src={logo} alt="Logo" style={style} />
